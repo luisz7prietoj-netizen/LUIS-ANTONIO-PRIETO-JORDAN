@@ -1,0 +1,6 @@
+{
+  "name": "Béisbol, Historias y LVBP",
+  "description": "Explora la historia, fundamentos y estadísticas del béisbol, con una sección dedicada a la LVBP, trivias de equipos legendarios, foro de discusión y notificaciones en vivo de resultados diarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
